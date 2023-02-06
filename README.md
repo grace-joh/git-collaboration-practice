@@ -7,3 +7,4 @@
  - cloning the repo
 
  blah blah fun timess
+ got in! adding a new line 
